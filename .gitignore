@@ -1,0 +1,6 @@
+venv/
+config.py
+add_venv.md
+__pycache__/
+.vscode/
+

@@ -1,0 +1,92 @@
+04-Oct-22 19:04:52 : Logger/logger.log; Import all contact from .csv;
+05-Oct-22 09:43:15 : Logger/logger.log; Contact change;new contact;
+05-Oct-22 09:43:15 : Logger/logger.log; Import all contact from .csv;
+05-Oct-22 12:21:50 : Logger/logger.log; Contact change;new contact;
+05-Oct-22 12:21:50 : Logger/logger.log; Import all contact from .csv;
+05-Oct-22 12:29:44 : Logger/logger.log; Contact change;new contact;
+05-Oct-22 12:29:44 : Logger/logger.log; Import all contact from .csv;
+05-Oct-22 12:30:08 : Logger/logger.log; Contact change;new contact;
+05-Oct-22 12:30:08 : Logger/logger.log; Import all contact from .csv;
+05-Oct-22 12:49:17 : Logger/logger.log; Contact change;new contact;
+05-Oct-22 12:49:17 : Logger/logger.log; Import all contact from .csv;
+05-Oct-22 13:42:37 : {'surname': 'Валетов', 'name': 'Андрей', 'tel': '+375297009823', 'comment': 'шутка номер'}; Create new contact;
+05-Oct-22 13:47:56 : {'surname': 'Гикрамин', 'name': 'Артур', 'tel': '+71646432164', 'comment': 'шутка'}; Create new contact;
+05-Oct-22 16:42:40 : {'surname': 'Сидоров', 'name': 'Сидор', 'tel': '7777777', 'comment': 'сидор'}; Create new contact;
+05-Oct-22 16:45:52 : {'id': '10', 'surname': 'Cbljhjd', 'name': 'Сидор', 'tel': '777755', 'comment': 'чвавы'}; Create new contact;
+05-Oct-22 17:29:15 : {'id': '11', 'surname': 'Пыжиков', 'name': 'Вадим', 'tel': '5555555', 'description': 'чижик пыжик'}; Create new contact;
+06-Oct-22 10:25:32; Export all contact in .json;
+06-Oct-22 15:30:44; Export all contact in .csv;
+06-Oct-22 15:31:58; Export all contact in .txt
+06-Oct-22 15:34:51;Import all contact from .txt
+06-Oct-22 16:48:29; Import all contact from .csv;
+06-Oct-22 16:53:26; Import all contact from .csv;
+06-Oct-22 16:53:39; Import all contact from .txt
+06-Oct-22 16:54:18; Export all contact in .csv;
+06-Oct-22 16:54:35; Export all contact in .json;
+06-Oct-22 16:58:45; Export all contact in .json;
+INFO:root:Started
+INFO:root:Делать что-то
+INFO:root:Finished
+INFO:logger:Произошло что-то важное
+ERROR:root:Произошло что-то важное
+Произошло что-то важное
+ERROR:root:Произошло что-то важное
+2022-10-06 17:35:06,587 - root - ERROR - Произошло что-то важное
+Произошло что-то важное
+2022-10-06 17:35:06,588 - root - ERROR - Произошло что-то важное
+Произошло что-то важное
+2022-10-06 17:36:10,255 - logger - ERROR - Произошло что-то важное
+2022-10-06 17:36:10,256 - logger - ERROR - Произошло что-то важное
+2022-10-06 17:37:54,680 - logger - ERROR - Произошло что-то важное
+2022-10-06 17:37:54,680 - logger - ERROR - Произошло что-то важное
+2022-10-06 18:11:33,334 - logger - ERROR - Произошло что-то важное
+2022-10-06 18:11:33,334 - logger - ERROR - Произошло что-то важное
+06-Oct-22 19:57:45 : {'id': 16, 'surname': 'Петров', 'name': 'петр', 'tel': '516564', 'description': 'привет'}; Create new contact;
+06-Oct-22 20:32:54; Import all contact from .txt
+06-Oct-22 20:33:04; Export all contact in .txt
+06-Oct-22 20:39:00 : {'id': 16, 'surname': 'Петров', 'name': 'петр', 'tel': '516564', 'description': 'привет'}; Delete contact;
+06-Oct-22 20:43:49 : {'id': 16, 'surname': 'Петров', 'name': 'петр', 'tel': '516564', 'description': 'привет'}; Delete contact;
+06-Oct-22 21:03:11; Import all contact from .csv;
+06-Oct-22 21:36:58; Import all contact from .txt
+06-Oct-22 21:37:50; Export all contact in .csv;
+06-Oct-22 21:38:00; Export all contact in .json;
+06-Oct-22 21:41:35; Export all contact in .json;
+06-Oct-22 23:47:44 : {'id': '16', 'surname': 'Петров', 'name': 'Петр', 'tel': '516564', 'comment': 'привет'}; Delete contact;
+07-Oct-22 00:38:20 : {'id': 17, 'surname': 'Корлев', 'name': 'Кирил', 'tel': '+654', 'comment': 'нет'}; Create new contact;
+07-Oct-22 00:40:00 : {'id': 17, 'surname': 'Корлев', 'name': 'Кирил', 'tel': '+654', 'comment': 'нет'}; Delete contact;
+07-Oct-22 01:03:11 : {'id': 18, 'surname': 'Черный', 'name': 'Панкрат', 'tel': '7854', 'comment': 'белый'}; Create new contact;
+07-Oct-22 01:12:53 : {'id': 11, 'surname': 'Петров', 'name': 'Петр', 'tel': '123', 'description': 'привет Петр'}; Contact change;new contact;
+07-Oct-22 01:23:11 : {'id': 16, 'surname': 'Петров', 'name': 'Петр', 'tel': '516564', 'description': 'привет Петро'}; Contact change;new contact;
+07-Oct-22 01:24:43 : {'id': 16, 'surname': 'Петров', 'name': 'Петр', 'tel': '516564', 'description': 'привет'}; Contact change;new contact;
+07-Oct-22 01:28:05 : {'id': 16, 'surname': 'Петров', 'name': 'Петр', 'tel': '516564', 'description': 'привет мой'}; Contact change;new contact;
+07-Oct-22 01:29:25 : {'id': 17, 'surname': 'Корлев', 'name': 'Кирил', 'tel': '+654', 'description': 'нет'}; Delete contact;
+07-Oct-22 12:42:46 INFO: Started
+07-Oct-22 12:43:03 INFO: Finished
+07-Oct-22 12:51:53 INFO: Started
+07-Oct-22 12:54:15 INFO: Finished
+07-Oct-22 12:54:25 INFO: Started
+07-Oct-22 12:55:14 WARNING: ValueError
+07-Oct-22 12:57:22 INFO: Finished
+07-Oct-22 13:00:15 INFO: Started
+07-Oct-22 13:00:23; Import all contact from .json
+07-Oct-22 13:00:31; Import all contact from .csv;
+07-Oct-22 13:05:00 INFO: Finished
+07-Oct-22 13:05:04 INFO: Started
+07-Oct-22 13:05:10; Import all contact from .csv;
+07-Oct-22 13:05:16; Import all contact from .json
+07-Oct-22 13:07:24; Export all contact in .json;
+07-Oct-22 13:07:48; Export all contact in .csv;
+07-Oct-22 13:16:45 INFO: Finished
+14-Oct-22 17:01:56 INFO: Scheduler started
+14-Oct-22 17:02:04 WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x7fae88542d40>, 'Connect timed out. (connect timeout=5.0)')': /bot5697827418:AAGElt2Kgu_NzzG12L72_5xW-sUIV4R5hAc/getMe
+14-Oct-22 17:02:24 INFO: Выбрана опция Andrey: 3
+14-Oct-22 17:09:01 INFO: Received signal 2 (SIGINT), stopping...
+14-Oct-22 17:09:01 INFO: Scheduler has been shut down
+14-Oct-22 17:09:11 INFO: Scheduler started
+14-Oct-22 17:09:23 INFO: Выбрана опция Andrey: 3
+14-Oct-22 17:11:46 INFO: Received signal 2 (SIGINT), stopping...
+14-Oct-22 17:11:46 INFO: Scheduler has been shut down
+14-Oct-22 17:12:01 INFO: Scheduler started
+14-Oct-22 17:12:08 INFO: Выбрана опция Andrey: 3
+14-Oct-22 17:12:35 INFO: Received signal 2 (SIGINT), stopping...
+14-Oct-22 17:12:35 INFO: Scheduler has been shut down

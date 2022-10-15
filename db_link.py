@@ -26,5 +26,5 @@ elif platform == "win32":
     csvFile = r'DB_export\phone_directory_export.csv'
     jsonFile = r'DB_export\phone_directory_export.json'
     textFile = r'DB_export\phone_directory_export.txt'
-    dbFilename = r'DB_Directory\phone_db_directory.json'
+    dbFilename = r'DB_Directory\db_directory.json'
     LOG = r'Logger\logger.log'

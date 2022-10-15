@@ -90,3 +90,14 @@ ERROR:root:Произошло что-то важное
 14-Oct-22 17:12:08 INFO: Выбрана опция Andrey: 3
 14-Oct-22 17:12:35 INFO: Received signal 2 (SIGINT), stopping...
 14-Oct-22 17:12:35 INFO: Scheduler has been shut down
+15-Oct-22 22:11:11 INFO: Scheduler started
+15-Oct-22 22:11:33 INFO: Выбрана опция Andrey: 3
+15-Oct-22 22:12:39 INFO: Пользователь Andrey завершил работу со справочником.
+15-Oct-22 22:12:54 INFO: Выбрана опция Andrey: 1
+15-Oct-22 22:13:03 INFO: Фамилия Andrey: Соловей
+15-Oct-22 22:13:19 INFO: Имя Andrey: Александр
+15-Oct-22 22:14:05 INFO: Номер телефона Andrey: 12345657
+15-Oct-22 22:14:33 INFO: Комментарий Andrey: может не может
+15-Oct-22 22:14:33 : {'id': 19, 'surname': 'Соловей', 'name': 'Александр', 'tel': 12345657, 'description': 'может не может'}; Create new contact;
+15-Oct-22 22:14:54 INFO: Received signal 2 (SIGINT), stopping...
+15-Oct-22 22:14:54 INFO: Scheduler has been shut down

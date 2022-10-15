@@ -17,7 +17,7 @@ from logger import *
 #     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
 # )
 logging.basicConfig(
-    filename=LOG, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)
+    filename=LOG, encoding='utf-8', format='%(asctime)s %(levelname)s: %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Определяем константы этапов разговора

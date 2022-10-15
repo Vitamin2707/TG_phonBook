@@ -88,4 +88,4 @@ def Finished_logger():
 
 def Logger_logger():
     logging.basicConfig(
-        filename=LOG, format='%(asctime)s %(levelname)s: %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)
+        filename=LOG, encoding='utf-8', format='%(asctime)s %(levelname)s: %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=logging.INFO)

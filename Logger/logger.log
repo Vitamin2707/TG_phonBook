@@ -101,3 +101,14 @@ ERROR:root:Произошло что-то важное
 15-Oct-22 22:14:33 : {'id': 19, 'surname': 'Соловей', 'name': 'Александр', 'tel': 12345657, 'description': 'может не может'}; Create new contact;
 15-Oct-22 22:14:54 INFO: Received signal 2 (SIGINT), stopping...
 15-Oct-22 22:14:54 INFO: Scheduler has been shut down
+16-Oct-22 20:51:18 INFO: Scheduler started
+16-Oct-22 20:52:00 INFO: Выбрана опция Артур: 1
+16-Oct-22 20:52:14 INFO: Фамилия Артур: Гикрамин
+16-Oct-22 20:52:17 INFO: Имя Артур: Артур
+16-Oct-22 20:52:25 INFO: Номер телефона Артур: 8928545
+16-Oct-22 20:52:37 INFO: Комментарий Артур: ЗДД
+16-Oct-22 20:52:37 : {'id': 20, 'surname': 'Гикрамин', 'name': 'Артур', 'tel': 8928545, 'description': 'ЗДД'}; Create new contact;
+16-Oct-22 20:53:59 INFO: Пользователь Артур завершил работу со справочником.
+16-Oct-22 20:54:11 INFO: Выбрана опция Артур: 3
+16-Oct-22 20:55:05 INFO: Received signal 2 (SIGINT), stopping...
+16-Oct-22 20:55:05 INFO: Scheduler has been shut down
